@@ -22,7 +22,7 @@ bank = []
 print("\nBank Details:")
 for acc in bank_details:
     bank.append(acc)
-    
+
 print(bank)
 # for account in bank:
 #      print(account)
