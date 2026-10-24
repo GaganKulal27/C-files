@@ -56,7 +56,7 @@ typedef struct {
  		printf(" %5s%d", "Sub", subject + 1);
  	}
  	printf(" %6s %8s %11s %6s\n", "Total", "Average", "Percent", "Result");
-     printf("==============================================================");
+     printf("==============================================================\n");
     }
 
  void printStudent(const Student *student)
